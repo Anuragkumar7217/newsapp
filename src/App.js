@@ -31,3 +31,5 @@ const App = () => {
   )
 }
 export default App
+
+// .env.local REACT_APP_NEWS_API='5b0fe406c1d44c04a6f23b41cea2efd2'
